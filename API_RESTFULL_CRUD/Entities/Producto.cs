@@ -15,5 +15,6 @@ namespace API_RESTFULL_CRUD.Entities
         public decimal Precio { get; set; }
         public int Categoria_Id { get; set; }
 
+        public Categoria Categoria { get; set; } //De esta forma colocas relaciones
     }
 }

@@ -152,6 +152,17 @@ C:\Users\alber\source\repos\API_RESTFULL_CRUD\API_RESTFULL_CRUD\bin\Debug\netcor
 C:\Users\alber\source\repos\API_RESTFULL_CRUD\API_RESTFULL_CRUD\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\alber\source\repos\API_RESTFULL_CRUD\API_RESTFULL_CRUD\obj\Debug\netcoreapp3.1\API_RESTFULL_CRUD.csproj.CoreCompileInputs.cache
 C:\Users\alber\source\repos\API_RESTFULL_CRUD\API_RESTFULL_CRUD\obj\Debug\netcoreapp3.1\API_RESTFULL_CRUD.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\alber\Desktop\Net Core - Projects\API_RESTFULL_CRUD\API_RESTFULL_CRUD\bin\Debug\netcoreapp3.1\API_RESTFULL_CRUD.dll
+C:\Users\alber\Desktop\Net Core - Projects\API_RESTFULL_CRUD\API_RESTFULL_CRUD\bin\Debug\netcoreapp3.1\API_RESTFULL_CRUD.pdb
+C:\Users\alber\Desktop\Net Core - Projects\API_RESTFULL_CRUD\API_RESTFULL_CRUD\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\alber\Desktop\Net Core - Projects\API_RESTFULL_CRUD\API_RESTFULL_CRUD\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\alber\Desktop\Net Core - Projects\API_RESTFULL_CRUD\API_RESTFULL_CRUD\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\alber\Desktop\Net Core - Projects\API_RESTFULL_CRUD\API_RESTFULL_CRUD\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\alber\Desktop\Net Core - Projects\API_RESTFULL_CRUD\API_RESTFULL_CRUD\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\alber\Desktop\Net Core - Projects\API_RESTFULL_CRUD\API_RESTFULL_CRUD\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\alber\Desktop\Net Core - Projects\API_RESTFULL_CRUD\API_RESTFULL_CRUD\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\alber\Desktop\Net Core - Projects\API_RESTFULL_CRUD\API_RESTFULL_CRUD\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\alber\Desktop\Net Core - Projects\API_RESTFULL_CRUD\API_RESTFULL_CRUD\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
 C:\Users\alber\Desktop\Net Core - Projects\API_RESTFULL_CRUD\API_RESTFULL_CRUD\bin\Debug\netcoreapp3.1\appsettings.Development.json
 C:\Users\alber\Desktop\Net Core - Projects\API_RESTFULL_CRUD\API_RESTFULL_CRUD\bin\Debug\netcoreapp3.1\appsettings.json
 C:\Users\alber\Desktop\Net Core - Projects\API_RESTFULL_CRUD\API_RESTFULL_CRUD\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
@@ -159,11 +170,7 @@ C:\Users\alber\Desktop\Net Core - Projects\API_RESTFULL_CRUD\API_RESTFULL_CRUD\b
 C:\Users\alber\Desktop\Net Core - Projects\API_RESTFULL_CRUD\API_RESTFULL_CRUD\bin\Debug\netcoreapp3.1\API_RESTFULL_CRUD.deps.json
 C:\Users\alber\Desktop\Net Core - Projects\API_RESTFULL_CRUD\API_RESTFULL_CRUD\bin\Debug\netcoreapp3.1\API_RESTFULL_CRUD.runtimeconfig.json
 C:\Users\alber\Desktop\Net Core - Projects\API_RESTFULL_CRUD\API_RESTFULL_CRUD\bin\Debug\netcoreapp3.1\API_RESTFULL_CRUD.runtimeconfig.dev.json
-C:\Users\alber\Desktop\Net Core - Projects\API_RESTFULL_CRUD\API_RESTFULL_CRUD\bin\Debug\netcoreapp3.1\API_RESTFULL_CRUD.dll
-C:\Users\alber\Desktop\Net Core - Projects\API_RESTFULL_CRUD\API_RESTFULL_CRUD\bin\Debug\netcoreapp3.1\API_RESTFULL_CRUD.pdb
 C:\Users\alber\Desktop\Net Core - Projects\API_RESTFULL_CRUD\API_RESTFULL_CRUD\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
-C:\Users\alber\Desktop\Net Core - Projects\API_RESTFULL_CRUD\API_RESTFULL_CRUD\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
-C:\Users\alber\Desktop\Net Core - Projects\API_RESTFULL_CRUD\API_RESTFULL_CRUD\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
 C:\Users\alber\Desktop\Net Core - Projects\API_RESTFULL_CRUD\API_RESTFULL_CRUD\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
 C:\Users\alber\Desktop\Net Core - Projects\API_RESTFULL_CRUD\API_RESTFULL_CRUD\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
 C:\Users\alber\Desktop\Net Core - Projects\API_RESTFULL_CRUD\API_RESTFULL_CRUD\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
@@ -172,12 +179,8 @@ C:\Users\alber\Desktop\Net Core - Projects\API_RESTFULL_CRUD\API_RESTFULL_CRUD\b
 C:\Users\alber\Desktop\Net Core - Projects\API_RESTFULL_CRUD\API_RESTFULL_CRUD\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
 C:\Users\alber\Desktop\Net Core - Projects\API_RESTFULL_CRUD\API_RESTFULL_CRUD\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
 C:\Users\alber\Desktop\Net Core - Projects\API_RESTFULL_CRUD\API_RESTFULL_CRUD\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
-C:\Users\alber\Desktop\Net Core - Projects\API_RESTFULL_CRUD\API_RESTFULL_CRUD\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
-C:\Users\alber\Desktop\Net Core - Projects\API_RESTFULL_CRUD\API_RESTFULL_CRUD\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
 C:\Users\alber\Desktop\Net Core - Projects\API_RESTFULL_CRUD\API_RESTFULL_CRUD\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
-C:\Users\alber\Desktop\Net Core - Projects\API_RESTFULL_CRUD\API_RESTFULL_CRUD\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
 C:\Users\alber\Desktop\Net Core - Projects\API_RESTFULL_CRUD\API_RESTFULL_CRUD\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
-C:\Users\alber\Desktop\Net Core - Projects\API_RESTFULL_CRUD\API_RESTFULL_CRUD\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
 C:\Users\alber\Desktop\Net Core - Projects\API_RESTFULL_CRUD\API_RESTFULL_CRUD\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
 C:\Users\alber\Desktop\Net Core - Projects\API_RESTFULL_CRUD\API_RESTFULL_CRUD\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
 C:\Users\alber\Desktop\Net Core - Projects\API_RESTFULL_CRUD\API_RESTFULL_CRUD\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
@@ -216,7 +219,6 @@ C:\Users\alber\Desktop\Net Core - Projects\API_RESTFULL_CRUD\API_RESTFULL_CRUD\b
 C:\Users\alber\Desktop\Net Core - Projects\API_RESTFULL_CRUD\API_RESTFULL_CRUD\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
 C:\Users\alber\Desktop\Net Core - Projects\API_RESTFULL_CRUD\API_RESTFULL_CRUD\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
 C:\Users\alber\Desktop\Net Core - Projects\API_RESTFULL_CRUD\API_RESTFULL_CRUD\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
-C:\Users\alber\Desktop\Net Core - Projects\API_RESTFULL_CRUD\API_RESTFULL_CRUD\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
 C:\Users\alber\Desktop\Net Core - Projects\API_RESTFULL_CRUD\API_RESTFULL_CRUD\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
 C:\Users\alber\Desktop\Net Core - Projects\API_RESTFULL_CRUD\API_RESTFULL_CRUD\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
 C:\Users\alber\Desktop\Net Core - Projects\API_RESTFULL_CRUD\API_RESTFULL_CRUD\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
@@ -275,9 +277,7 @@ C:\Users\alber\Desktop\Net Core - Projects\API_RESTFULL_CRUD\API_RESTFULL_CRUD\b
 C:\Users\alber\Desktop\Net Core - Projects\API_RESTFULL_CRUD\API_RESTFULL_CRUD\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\alber\Desktop\Net Core - Projects\API_RESTFULL_CRUD\API_RESTFULL_CRUD\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\alber\Desktop\Net Core - Projects\API_RESTFULL_CRUD\API_RESTFULL_CRUD\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
-C:\Users\alber\Desktop\Net Core - Projects\API_RESTFULL_CRUD\API_RESTFULL_CRUD\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
 C:\Users\alber\Desktop\Net Core - Projects\API_RESTFULL_CRUD\API_RESTFULL_CRUD\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
-C:\Users\alber\Desktop\Net Core - Projects\API_RESTFULL_CRUD\API_RESTFULL_CRUD\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
 C:\Users\alber\Desktop\Net Core - Projects\API_RESTFULL_CRUD\API_RESTFULL_CRUD\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
 C:\Users\alber\Desktop\Net Core - Projects\API_RESTFULL_CRUD\API_RESTFULL_CRUD\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
 C:\Users\alber\Desktop\Net Core - Projects\API_RESTFULL_CRUD\API_RESTFULL_CRUD\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so

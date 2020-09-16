@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Runtime.CompilerServices;
 using System.Threading.Tasks;
 using API_RESTFULL_CRUD.Contexts;
 using API_RESTFULL_CRUD.Entities;
@@ -26,7 +27,7 @@ namespace API_RESTFULL_CRUD.Controllers
         [HttpGet]
         public IEnumerable<Producto> Get()
         {
-            return context.Producto.ToList();
+            return context.Producto.Include(p => p.Categoria).ToList();
         }
 
         // GET api/<ProductoController>/5
