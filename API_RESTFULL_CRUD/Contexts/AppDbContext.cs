@@ -13,5 +13,6 @@ namespace API_RESTFULL_CRUD.Contexts
         {
         }
         public DbSet<Producto> Producto { get; set; }
+        public DbSet<Categoria> Categoria { get; set; }
     }
 }

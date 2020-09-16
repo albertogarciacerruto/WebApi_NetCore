@@ -13,62 +13,53 @@ namespace API_RESTFULL_CRUD.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    public class ProductoController : ControllerBase
+    public class CategoriaController : ControllerBase
     {
         private readonly AppDbContext context;
 
-        public ProductoController(AppDbContext context)
+        public CategoriaController(AppDbContext context)
         {
             this.context = context;
         }
 
-        // GET: api/<ProductoController>
+        // GET: api/<CategoriaController>
         [HttpGet]
-        public IEnumerable<Producto> Get()
+        public IEnumerable<Categoria> Get()
         {
-            return context.Producto.ToList();
+            return context.Categoria.ToList().AsQueryable();
         }
 
-        // GET api/<ProductoController>/5
+        // GET api/<CategoriaController>/5
         [HttpGet("{id}")]
-        public Producto Get(int id)
+        public Categoria Get(int id)
         {
-            var producto = context.Producto.FirstOrDefault(p => p.Id == id);
-            return producto;
+            var categoria = context.Categoria.Where(o => o.Id == id).FirstOrDefault();
+            return categoria;
         }
 
-        // GET api/<ProductoController>/5
-        [HttpGet("categoria/{id}")]
-        public IEnumerable<Producto> Producto_Categoria_Get(int id)
-        {
-            var productos = context.Producto.Where(p => p.Categoria_Id == id).ToList();
-            return productos;
-        }
-
-        // POST api/<ProductoController>
+        // POST api/<CategoriaController>
         [HttpPost]
-        public ActionResult Post([FromBody] Producto producto)
+        public ActionResult Post([FromBody] Categoria categoria)
         {
             try
             {
-                context.Producto.Add(producto);
+                context.Categoria.Add(categoria);
                 context.SaveChanges();
                 return Ok();
             }
-            catch(Exception ex)
+            catch (Exception ex)
             {
                 return BadRequest();
             }
-            
         }
 
-        // PUT api/<ProductoController>/5
+        // PUT api/<CategoriaController>/5
         [HttpPut("{id}")]
-        public ActionResult Put(int id, [FromBody] Producto producto)
+        public ActionResult Put(int id, [FromBody] Categoria categoria)
         {
-            if(producto.Id == id)
+            if (categoria.Id == id)
             {
-                context.Entry(producto).State = EntityState.Modified;
+                context.Entry(categoria).State = EntityState.Modified;
                 context.SaveChanges();
                 return Ok();
             }
@@ -78,14 +69,14 @@ namespace API_RESTFULL_CRUD.Controllers
             }
         }
 
-        // DELETE api/<ProductoController>/5
+        // DELETE api/<CategoriaController>/5
         [HttpDelete("{id}")]
         public ActionResult Delete(int id)
         {
-            var producto = context.Producto.FirstOrDefault(p => p.Id == id);
-            if(producto != null)
+            var categoria = context.Categoria.FirstOrDefault(p => p.Id == id);
+            if (categoria != null)
             {
-                context.Producto.Remove(producto);
+                context.Categoria.Remove(categoria);
                 context.SaveChanges();
                 return Ok();
             }
